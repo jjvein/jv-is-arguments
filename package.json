@@ -1,0 +1,25 @@
+{
+  "name": "jv-is-arguments",
+  "version": "1.0.2",
+  "description": "``` js var jvIsArguments = require('jv-is-argument')",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjvein/jv-is-arguments.git"
+  },
+  "keywords": [
+    "arguments"
+  ],
+  "author": "jjvein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jjvein/jv-is-arguments/issues"
+  },
+  "homepage": "https://github.com/jjvein/jv-is-arguments#readme",
+  "dependencies": {
+    "expect.js": "^0.3.1"
+  }
+}
