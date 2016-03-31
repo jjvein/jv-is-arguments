@@ -1,7 +1,7 @@
 {
   "name": "jv-is-arguments",
-  "version": "1.0.2",
-  "description": "``` js var jvIsArguments = require('jv-is-argument')",
+  "version": "1.0.3",
+  "description": "Just test the specified Javascript variable is a arguments type",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -19,7 +19,8 @@
     "url": "https://github.com/jjvein/jv-is-arguments/issues"
   },
   "homepage": "https://github.com/jjvein/jv-is-arguments#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "expect.js": "^0.3.1"
   }
 }
